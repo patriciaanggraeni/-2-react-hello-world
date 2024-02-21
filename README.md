@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Soal 1: Apa yang dimaksud dengan
 
-## Getting Started
+1. Typescript, Bahasa pemrograman yang berbasis pada JavaScript, memiliki fitur strong-type dan konsep OOP. Typescript merupakan supertype dari JavaScript, artinya semua kode JavaScript juga merupakan kode Typescript.
+2. ESLint merupakan sebuah tools untuk melakukan static analyzes code agar dapat mengetahui kode mana yang error dengan cepat. Dampaknya kode yang dibuat menjadi konsisten dan minim bug.
+3. Tailwind CSS sebuah utility-first CSS Framework yang digunakan untuk membangun UI dengan cepat. utility-first ini artinya tailwind menyediakan banyak utility class yang digunakan untuk kustomisasi desain tanpa perlu membuat file css.
+4. App Router memungkin untuk melakukan routing/perpindahan halaman dengan menggunakan folder hierarki sebagai segmen untuk url.
+5. Import alias, sangat berguna untuk memberikan nama alias untuk file yang diimport. Contoh jika path file terlalu panjang, bisa menggunakan import alias agar lebih pendak dan bersih.
 
-First, run the development server:
+## Soal 2: jelaskan kegunaan folder dan file masing-masing tersebut!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![screenshot_soal_no_dua](assets-report/soal_dua.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Setelah berhasil membuat project Next.js, otomatis menambahkan tiga folder, yaitu .git, node_modules, public, dan src.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. .git, folder ini berfungsi agar proyek kita dapat dihubungkan dengan repositori kita.
+2. node_modules, sebagai pengelolaan dependensi pihak ketiga yang digunakan di dalam proyek.
+3. public, digunakan untuk menyimpan file statis seperti gambar.
+4. src, meyimpan semua file kode/halaman dari aplikasi dan file tersebut bisa digunakan untuk routing.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Soal 3: Gantilah teks pada bagian atas dengan Nama - NIM Anda
+![screenshot_soal_no_tiga](assets-report/soal_tiga.png)
 
-## Learn More
+## Perbedaan Next.js - Remix - Gatsby
 
-To learn more about Next.js, take a look at the following resources:
+### Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js menggunakan basis React yang memungkinkan untuk membangun aplikasi web dari sisi server side, ini memberikan manfaat seperti merender halaman di sisi server sebelum tiba di klien.
+![next_project](assets-report/create_next_project.png)
+![next_project](assets-report/run_next.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Remix
 
-## Deploy on Vercel
+Framework yang menyediakan berbagai fitur, termasuk server bawaan, pemisahan kode otomatis, chace sisi klien yang membuatnya mudah untuk membangun aplikasi web yang kompleks.
+![remix_project](assets-report/create_remix_project.png)
+![next_project](assets-report/run_remix.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Gatsby
+
+Membangun aplikasi yang telah dioptimalkan untuk performa dan SEO, mampu mneghasilkan halaman statis sehingga menghasilkan waktu muat yang sangat cepat. Gatsby lebih susah untuk diatur dan dikonfigurasi dibandingkan dengan next.js dan remix
+![gatsby_project](assets-report/create_gatsby_project_satu.png)
+![gatsby_project](assets-report/create_gatsby_project_dua.png)
+![next_project](assets-report/run_gatsby.png)
