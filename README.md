@@ -41,3 +41,27 @@ Membangun aplikasi yang telah dioptimalkan untuk performa dan SEO, mampu mneghas
 ![gatsby_project](assets-report/create_gatsby_project_satu.png)
 ![gatsby_project](assets-report/create_gatsby_project_dua.png)
 ![next_project](assets-report/run_gatsby.png)
+
+### Soal 4: Buatlah komponen MyTextNimName() berdasarkan kode dari soal nomor 3 sebelumnya. Lalu panggillah komponen tersebut. Apakah ada perubahan tampilan ? Mengapa demikian ?
+
+- Membuat komponen
+![next_project](assets-report/code.png)
+
+- Memanggil komponen
+![next_project](assets-report/call_component.png)
+
+- Menampilkan hasil
+![next_project](assets-report/prakrikum_5.png)
+
+Tampilan tidak berubah sama sekali karena nilai yang direturn sama dengan sebelumnya, Dari komponen yang dibuat, fungsi MyTextNimName mengembalikan jsx (JavaScript XML) berupa tag p (paragraf), bisa digunakan karena sebelumnya sudah dieksport secara default.
+
+
+### Soal 5: Buatlah komponen MyPage() berdasarkan project praktikum 1 ini yang berisi kode-kode HTML dari fungsi Home(). Lalu panggillah komponen tersebut. Apakah ada perubahan tampilan ? Mengapa demikian ?
+
+- Hasil
+![next_project](assets-report/soal_5.png)
+
+Tidak ada perubahan pada tampilan.
+
+### Soal 6: Gunakanlah Kode JSX image, ganti dengan NIM, Nama Anda beserta link gambar ganti dengan foto Anda (bisa dari link medsos atau lainnya). Push codenya dan screenshot hasilnya.
+![next_project](assets-report/profile_image.png)
