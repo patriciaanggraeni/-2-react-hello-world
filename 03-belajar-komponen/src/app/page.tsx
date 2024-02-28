@@ -14,7 +14,7 @@ export default function Home() {
       <p className="mt-5 capitalize text-2xl flex justify-center">
         ilmuwan yang luar biasa
       </p>
-      <div className="mt-3 flex justify-center items-center">
+      <div className="mt-3">
         {/* <Profile /> */}
         {/* <Profile /> */}
         {/* <Profile /> */}

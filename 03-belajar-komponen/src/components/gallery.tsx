@@ -2,7 +2,7 @@ import Profile from "./profile";
 
 export function Gallery() {
     return (
-        <div className="columns-3">
+        <div className="flex justify-center items-center">
             <Profile />
             <Profile />
             <Profile />
