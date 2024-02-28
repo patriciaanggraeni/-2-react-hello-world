@@ -9,8 +9,8 @@ export default function Profile() {
     <Image
         src="https://i.imgur.com/MK3eW3Am.jpg"
         alt="Katherine Johnson"
-        width={100}
-        height={100}
+        width={200}
+        height={200}
         style={{
           maxWidth: "100%",
           height: "auto",
@@ -18,4 +18,4 @@ export default function Profile() {
         }}
       />
     );
-  }
+}
