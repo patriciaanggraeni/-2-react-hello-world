@@ -5,7 +5,10 @@ import Profile from "../components/profile";
 
 // import komponen gallery
 import { Gallery } from "@/components/gallery";
-import TodoList from "@/components/jsx-rule";
+
+// import komponen bio
+import Bio from '../components/jsx-rule'
+import TodoList from "@/components/todolist";
 
 export default function Home() {
   return (
@@ -21,7 +24,10 @@ export default function Home() {
 
         {/* <Gallery /> */}
       
+        {/* <Bio /> */}
+        
         <TodoList />
+
       </div>
     </main>
   );
