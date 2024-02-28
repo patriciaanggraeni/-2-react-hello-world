@@ -46,3 +46,19 @@ Dengan membuat komponen baru (Gallery) untuk menampung 3 gambar profile, saat di
 Berikut hasil setelah melakukan perbaikan kode:
 
 ![screenshot_result_2](/assets-record/praktikum-dua/result-2.png)
+
+### 3. Silakan perbaiki kode JSX berikut ini. Anda boleh menggunakan konverter atau perbaiki secara manual dan elaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi?
+
+![screenshot_bonus_stage](/assets-record/bonus-stage/not-solved.png)
+
+Ada beberapa kesalahan dari kode di atas:
++ saat mereturn jsx, jumlah tag yang di return harus berjumlah satu, maka dari itu bungkus dengan div atau tag kosong (fragment)
++ properti class pada tag div seharusnya memakai className
++ tag br tidak bisa digunakan di dalam tag p
++ posisi tag penutup dari tag b salah, seharusnya setelah tag penutup dari tag i (tinggal ganti posisi)
+
+Berikut kode yang telash diperbaiki dan hasilnya:
+
+![screenshot_bonus_stage](/assets-record/bonus-stage/solved.png)
+
+![screenshot_bonus_stage](/assets-record/bonus-stage/result.png)
