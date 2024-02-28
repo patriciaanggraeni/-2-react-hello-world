@@ -62,3 +62,20 @@ Berikut kode yang telash diperbaiki dan hasilnya:
 ![screenshot_bonus_stage](/assets-record/bonus-stage/solved.png)
 
 ![screenshot_bonus_stage](/assets-record/bonus-stage/result.png)
+
+### 4. Silahkan perbaiki kode yang error
+
+![screenshot_praktikum_3](/assets-record/praktikum-tiga/solved.png)
+
++ panggil properti name di variabel person di dalam tag h1 (belumnya tidak dipanggil)
++ Sebaiknya ganti karakter ' dengan &-apos; (tanpa tanda hubung)
++ tag img saya ganti dengan Image dari next karena muncul warning Using <img> could result in slower LCP and higher bandwidth. Consider using <Image /> from next/image to automatically optimize images. This may incur additional usage or cost from your provider. (sebenarnya nggak error cuma nggak enak dilihat karena muncul warna kuning wkwkwk)
++ jika menggunakan komponen Image dari next, wajib menyertakan properti width dan height, kalau tidak akan muncul error pada web sebagai berikut:
+
+![screenshot_error_1](/assets-record/praktikum-tiga/error-1.png)
+
+![screenshot_error_2](/assets-record/praktikum-tiga/error-2.png)
+
+Berikut hasilnya:
+
+![screenshot_result](/assets-record/praktikum-tiga/result.png)
