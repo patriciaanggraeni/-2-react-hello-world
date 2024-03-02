@@ -79,3 +79,13 @@ Berikut kode yang telash diperbaiki dan hasilnya:
 Berikut hasilnya:
 
 ![screenshot_result](/assets-record/praktikum-tiga/result.png)
+
+### 5. Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person. Apakah ada perbedaan pada tampilan web saat ini?
+
+![screenshot_solved_2](/assets-record/praktikum-tiga/solved-2.png)
+
+![screenshot_solved_3](/assets-record/praktikum-tiga/solved-3.png)
+
+![screenshot_result_2](/assets-record/praktikum-tiga/result-2.png)
+
+Link gambar saya masukkan ke dalam person dengan property bernama profile, dari situ dipanggil di dalam property scr, lalu diimport ke page.tsx, dari hasil di atas, gambar tampil dengan benar, dan karena tag gallery dipanggil muncul judul, garis pemisah dan tiga gambar.

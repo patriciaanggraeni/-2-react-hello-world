@@ -2,6 +2,7 @@ import Image from 'next/image'
 
 const person = {
     name: 'Gregorio Y. Zara',
+    profile: "https://i.imgur.com/7vQD0fPs.jpg",
     theme: {
         backgroundColor: 'black',
         color: 'pink'
@@ -14,7 +15,7 @@ export default function TodoList() {
         <h1>{person.name}&apos;s Todos</h1>
         <Image
             className="avatar"
-            src="https://i.imgur.com/7vQD0fPs.jpg"
+            src={person.profile}
             alt="Gregorio Y. Zara"
             width={150}
             height={150}
