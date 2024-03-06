@@ -89,3 +89,13 @@ Berikut hasilnya:
 ![screenshot_result_2](/assets-record/praktikum-tiga/result-2.png)
 
 Link gambar saya masukkan ke dalam person dengan property bernama profile, dari situ dipanggil di dalam property scr, lalu diimport ke page.tsx, dari hasil di atas, gambar tampil dengan benar, dan karena tag gallery dipanggil muncul judul, garis pemisah dan tiga gambar.
+
+### 6. Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![screenshot_solved_4](/assets-record/praktikum-tiga/solved-4.png)
+
+Menampilkan gambar bisa menggunakan string literal (menggunakan simbol $ yang dibungkus dengan backtick). Setiap pemanggilan atribut objek person, dibungkus menggunakan kurung kurawal. Berikut hasilnya: 
+
+![screenshot_result_3](/assets-record/praktikum-tiga/result-3.png)
+
+
