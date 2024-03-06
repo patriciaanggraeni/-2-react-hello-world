@@ -9,6 +9,7 @@ import { Gallery } from "@/components/gallery";
 // import komponen bio
 import Bio from '../components/jsx-rule'
 import TodoList from "@/components/todolist";
+import MyGallery from "@/components/mygallery";
 
 export default function Home() {
   return (
@@ -22,12 +23,12 @@ export default function Home() {
         {/* <Profile /> */}
         {/* <Profile /> */}
         {/* <Bio /> */}
-        <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
+        {/* <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan yang luar biasa</h1>
         <hr/>
         <Gallery />
         <hr/>
-        <TodoList />
-
+        <TodoList /> */}
+        <MyGallery />
       </div>
     </main>
   );

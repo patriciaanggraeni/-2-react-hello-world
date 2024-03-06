@@ -98,4 +98,10 @@ Menampilkan gambar bisa menggunakan string literal (menggunakan simbol $ yang di
 
 ![screenshot_result_3](/assets-record/praktikum-tiga/result-3.png)
 
+### 7. Jika kode di atas terdapat error, silakan diperbaiki. Komponen MyGallery ini berisi dua markup yang sama persis. Ekstraklah menjadi komponen MyProfile untuk mengurangi duplikasi. Anda perlu memilih props apa saja yang akan dikirimkan.
 
+![screenshot_solved](/assets-record/praktikum-empat/solved-1.png)
+
+Membuat sebuah class interface untuk memuat data mengenai gambar yang ditampilkan, dari sini mengambil data nama, alamat gambar, profesi, penghargaan dan penemuan. Menggunakan destructuring objek.
+
+![screenshot_result](/assets-record/praktikum-empat/result.png)
