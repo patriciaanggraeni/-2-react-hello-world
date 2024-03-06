@@ -119,3 +119,11 @@ Tampilan gamabr jika ukuran kurang dari 90 (maka nilai menjadi 's')
 
 Tampilan gamabr jika ukuran lebih dari 90 (maka nilai menjadi 'b')
 ![screenshot_result](/assets-record/praktikum-empat/result-3.png)
+
+### 9. Jika kode di atas terdapat error, silakan diperbaiki. Buatlah komponen Card dari kode di atas, lalu gunakan prop children untuk mengirimkan JSX yang berbeda.
+
+Membuat komponen card dengan menempatkan children di tengah tag div dan memanggil komponen Card di dalam komponen MyProfileV2.
+
+![screenshot_solved_4](/assets-record/praktikum-empat/solved-5.png)
+
+![screenshot_result_4](/assets-record/praktikum-empat/result-4.png)
