@@ -105,3 +105,17 @@ Menampilkan gambar bisa menggunakan string literal (menggunakan simbol $ yang di
 Membuat sebuah class interface untuk memuat data mengenai gambar yang ditampilkan, dari sini mengambil data nama, alamat gambar, profesi, penghargaan dan penemuan. Menggunakan destructuring objek.
 
 ![screenshot_result](/assets-record/praktikum-empat/result.png)
+
+### 8. Jika kode di atas terdapat error, silakan diperbaiki. Ubahlah komponen MyAvatar untuk diolah ukuran gambarnya berdasarkan prop size. Khususnya, jika size kurang dari 90, kirimkan 's' ("small") bukan 'b' ("big") pada fungsi getImageUrl. Pastikan bahwa perubahan yang Anda buat berjalan dengan cara me-render avatars dengan nilai prop size yang berbeda dan buka gambar pada tab baru di browser.
+
+![screenshot_result](/assets-record/praktikum-empat/solved-3.png)
+
+![screenshot_result](/assets-record/praktikum-empat/solved-4.png)
+
+Menambahkan variabel untuk mengecek apakah size yang dimasukkan itu kurang dari 90 atau tidak. Menggunakan operator ternary dan di dalam fungsi getImageUrlV2(), parameter dikasih tipe data secara eksplisit.
+
+Tampilan gamabr jika ukuran kurang dari 90 (maka nilai menjadi 's')
+![screenshot_result](/assets-record/praktikum-empat/result-2.png)
+
+Tampilan gamabr jika ukuran lebih dari 90 (maka nilai menjadi 'b')
+![screenshot_result](/assets-record/praktikum-empat/result-3.png)

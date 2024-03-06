@@ -10,6 +10,7 @@ import { Gallery } from "@/components/gallery";
 import Bio from '../components/jsx-rule'
 import TodoList from "@/components/todolist";
 import MyGallery from "@/components/mygallery";
+import MyProfile from "@/components/myprofiletwo";
 
 export default function Home() {
   return (
@@ -28,7 +29,8 @@ export default function Home() {
         <Gallery />
         <hr/>
         <TodoList /> */}
-        <MyGallery />
+        {/* <MyGallery /> */}
+        <MyProfile />
       </div>
     </main>
   );
