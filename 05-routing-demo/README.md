@@ -36,6 +36,12 @@ Buatlah halaman /profile yang menampilkan isi biodata anda dengan menggunakan ro
 
 ![kode_dua](assets-record/praktikum_dua/result-2.png)
 
-### Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+### Praktikum 2 Todo
 
-Perpindahan antar halaman masih manual, url masih statis dan belum dinamis.
+![hasil_tiga](assets-record/praktikum_dua/code-3.png)
+
+![kode_tiga](assets-record/praktikum_dua/result-3.png)
+
+#### Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+
+Perpindahan antar halaman masih manual, url statis dan belum dinamis.
