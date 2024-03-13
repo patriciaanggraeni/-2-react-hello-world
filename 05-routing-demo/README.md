@@ -15,3 +15,10 @@
 ![kode_dua](assets-record/praktikum_satu/code-2.png)
 
 ![hasil_dua](assets-record/praktikum_satu/result-2.png)
+
+### Praktikum Satu: Todo
+Buatlah halaman /profile yang menampilkan isi biodata anda dengan menggunakan routing di NextJS.
+
+![hasil_todo](assets-record/praktikum_satu/todo-code.png)
+
+![kode_todo](assets-record/praktikum_satu/todo-result.png)
