@@ -77,3 +77,7 @@ Perpindahan antar halaman masih manual, url statis dan belum dinamis.
 ![code_todo_dua](assets-record/praktikum_tiga/code-6.png)
 
 ![hasil_todo_dua](assets-record/praktikum_tiga/result-6.png)
+
+### Praktikum 4 Todo
+
+![hasil_todo](assets-record/praktikum_empat/result-7.gif)
