@@ -13,3 +13,14 @@
 
 ### Praktikum 1 Langkah 3: menampilkan hasil run
 ![praktikum_satu](assets-record/praktikum-satu/4.png)
+
+### Praktikum 2 Soal
+
+Keadaan ketika user mengklik tombol login
+![praktikum_dua](assets-record/praktikum-dua/5.png)
+
+Keadaan ketika user mengklik tombol logout
+![praktikum_dua](assets-record/praktikum-dua/6.png)
+
+Hasil ketika tidak menggunakan fungsi parse
+![praktikum_dua](assets-record/praktikum-dua/7.png)
