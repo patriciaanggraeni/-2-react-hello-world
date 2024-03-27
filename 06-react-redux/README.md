@@ -3,7 +3,7 @@
 ### KELAS: TI 3A
 ---
 
-#### Praktikum 1 Langkah 1: membuat proyek baru
+### Praktikum 1 Langkah 1: membuat proyek baru
 ![praktikum_satu](assets-record/praktikum-satu/1.png)
 
 ### Praktikum 1 Langkah 2: menginstall bootstrap
