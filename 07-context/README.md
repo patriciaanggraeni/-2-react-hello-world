@@ -15,3 +15,10 @@ Penjelasan: ukuran tiap teks sama, tidak ada perubahan sama sekali.
 ![screenshot_soal_1](assets-record/praktikum-satu/result-2.png)
 
 Penjelasan: ukurab teks masih belum berubah (ada kesalahan perubahan tidak terender ulang)  
+
+#### Soal 3
+
+![screenshot_soal_1](assets-record/praktikum-satu/result-3.png)
+
+Penjelasan: ukurab teks masih belum berubah (ada kesalahan perubahan tidak terender ulang)
+Hal didapat, sebenarnya mengubah ukuran teks menggunakan variabel level dan context, teks berubah ukurannya sesuai dengan nilai level yang diberikan.
