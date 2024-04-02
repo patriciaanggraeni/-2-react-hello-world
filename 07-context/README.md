@@ -9,3 +9,9 @@
 ![screenshot_soal_1](assets-record/praktikum-satu/result-1.png)
 
 Penjelasan: ukuran tiap teks sama, tidak ada perubahan sama sekali.
+
+#### Soal 2
+
+![screenshot_soal_1](assets-record/praktikum-satu/result-2.png)
+
+Penjelasan: ukurab teks masih belum berubah (ada kesalahan perubahan tidak terender ulang)  
