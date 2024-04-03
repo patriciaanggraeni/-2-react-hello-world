@@ -4,6 +4,7 @@ import Tombol_1, { Tombol_2, Tombol_3 } from "@/component/button";
 import Gallery from "@/component/gallery";
 import Form from "@/component/form";
 import Accordion from "@/component/accordion";
+import Messenger, {ContactList} from "@/component/chat";
 
 export default function Home() {
   return (
@@ -25,7 +26,9 @@ export default function Home() {
           <br/><br/>
           <Form/>
           <br/><br/>
-          <Accordion />
+          <Accordion/>
+          <br/><br/>
+          <Messenger />
       </div>
   );
 }

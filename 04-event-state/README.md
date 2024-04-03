@@ -49,3 +49,9 @@ gambar pertama/halaman pertama
 Terdapat dua tombol untuk menampilkan about dan etimology, jika 
 tombol etimology ditekan, maka halaman about akan tertutup begitu 
 juga sebaliknya
+
+![hasil_pratikum_empat](assets-record/praktikum_enam/3.png)
+
+- Memberi key berupa email membuat penerima pada text area berubah, apabila tidak diberi key tersebut maka penerima pada test area akan tetap sama dikarenakan inputnya masih ada
+
+- Fungsinya adalah user dapat melakukan suatu aksi seperti input penerima, sebaliknya apabila tidak diberi props key tersebut maka inputan user akan tersimpan walaupun sudah berganti kontak ke yang lain
