@@ -39,3 +39,13 @@ gambar pertama/halaman pertama
 ![hasil_pratikum_empat](assets-record/praktikum_lima/1.png)
 
 ![hasil_pratikum_empat](assets-record/praktikum_lima/2.png)
+
+#### Praktikum 6
+
+![hasil_pratikum_empat](assets-record/praktikum_enam/1.png)
+
+![hasil_pratikum_empat](assets-record/praktikum_enam/2.png)
+
+Terdapat dua tombol untuk menampilkan about dan etimology, jika 
+tombol etimology ditekan, maka halaman about akan tertutup begitu 
+juga sebaliknya
