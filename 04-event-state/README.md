@@ -16,3 +16,7 @@ Tombol sesudah di hover
 
 Menambahkan alert
 ![tombol_sebelum_ditekan](assets-record/praktikum_satu/3.png)
+
+#### Praktikum 2
+
+![hasil_pratikum_dua](assets-record/praktikum_dua/1.png)
