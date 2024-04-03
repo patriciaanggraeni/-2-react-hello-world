@@ -33,3 +33,9 @@ Menambahkan alert
 
 Jika menekan tombol lebih dari 5x, maka gambar akan kembali ke 
 gambar pertama/halaman pertama
+
+#### Praktikum 5
+
+![hasil_pratikum_empat](assets-record/praktikum_lima/1.png)
+
+![hasil_pratikum_empat](assets-record/praktikum_lima/2.png)
