@@ -20,3 +20,9 @@ Menambahkan alert
 #### Praktikum 2
 
 ![hasil_pratikum_dua](assets-record/praktikum_dua/1.png)
+
+#### Praktikum 3
+
+![hasil_pratikum_tiga](assets-record/praktikum_tiga/1.png)
+
+![hasil_pratikum_tiga](assets-record/praktikum_tiga/2.png)
