@@ -1,15 +1,15 @@
 "use client"
-import { levelContext } from "@/utilities/context/my_context";
+import { LevelContext } from "@/utilities/context/my_context";
 import { useContext } from "react";
 
 export default function Section({ children }: { children: any }) {
-    const level = useContext(levelContext);
+    const level = useContext(LevelContext);
 
     return (
         <section className="section">
-            <levelContext.Provider value={level}>
+            <LevelContext.Provider value={level}>
                 {children}
-            </levelContext.Provider>
+            </LevelContext.Provider>
         </section>
     );
 }
