@@ -26,3 +26,10 @@ Menambahkan alert
 ![hasil_pratikum_tiga](assets-record/praktikum_tiga/1.png)
 
 ![hasil_pratikum_tiga](assets-record/praktikum_tiga/2.png)
+
+#### Praktikum 4
+
+![hasil_pratikum_empat](assets-record/praktikum_empat/1.png)
+
+Jika menekan tombol lebih dari 5x, maka gambar akan kembali ke 
+gambar pertama/halaman pertama
