@@ -31,3 +31,9 @@ Hal didapat, sebenarnya mengubah ukuran teks menggunakan variabel level dan cont
 
 Menambahkan nama dan nim
 ![screenshot_soal_4](assets-record/praktikum-dua/4.png)
+
+#### Soal 5
+
+![screenshot_soal_5](assets-record/praktikum-tiga/1.png)
+
+![screenshot_soal_5](assets-record/praktikum-tiga/2.png)
