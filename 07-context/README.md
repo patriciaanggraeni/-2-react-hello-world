@@ -22,3 +22,12 @@ Penjelasan: ukurab teks masih belum berubah (ada kesalahan perubahan tidak teren
 
 Penjelasan: ukurab teks masih belum berubah (ada kesalahan perubahan tidak terender ulang)
 Hal didapat, sebenarnya mengubah ukuran teks menggunakan variabel level dan context, teks berubah ukurannya sesuai dengan nilai level yang diberikan.
+
+#### Soal 4
+
+![screenshot_soal_4](assets-record/praktikum-dua/2.png)
+
+![screenshot_soal_4](assets-record/praktikum-dua/3.png)
+
+Menambahkan nama dan nim
+![screenshot_soal_4](assets-record/praktikum-dua/4.png)
